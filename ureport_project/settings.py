@@ -135,7 +135,7 @@ INSTALLED_APPS = [
     "djcelery",
     #"permission",
    # nothing after south
-    "south",
+    #"south",
 ]
 
 SMS_APPS = [
