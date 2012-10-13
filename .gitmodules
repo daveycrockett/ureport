@@ -36,7 +36,7 @@
 	url = git://github.com/unicefuganda/rapidsms-xforms
 [submodule "ureport_project/rapidsms_httprouter_src"]
 	path = ureport_project/rapidsms_httprouter_src
-	url = git://github.com/unicefuganda/rapidsms-httprouter
+	url = git://github.com/daveycrockett/rapidsms-httprouter
 [submodule "ureport_project/rapidsms_geoserver"]
 	path = ureport_project/rapidsms_geoserver
 	url = git://github.com/unicefuganda/rapidsms-geoserver
